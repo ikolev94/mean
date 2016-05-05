@@ -1,0 +1,26 @@
+{
+  "name": "mean-stack-app",
+  "description": "Mean Stack",
+  "main": "server.js",
+  "authors": [
+    "Ivan Kolev"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "notie": "^3.2.0",
+    "angular": "^1.5.5",
+    "angular-resource": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "bootstrap": "^3.3.6"
+  }
+}
